@@ -35,9 +35,9 @@
   
 <h3 align="left">Latest Projects & Articles</h3>
 <ul align="left">
-  <li><a href="#">🔧 Designing a Mobile-First Web Layout Using Figma & CSS Grid</a></li>
-  <li><a href="#">🎨 Prototyping Faster with Figma's Auto Layout & Variants</a></li>
-  <li><a href="#">🚀 Building a Smooth Scroll Landing Page with Vanilla JS</a></li>
+  <li>🔧 Designing a Mobile-First Web Layout Using Figma & CSS Grid</li>
+  <li>🎨 Prototyping Faster with Figma's Auto Layout & Variants</li>
+  <li>🚀 Building a Smooth Scroll Landing Page with Vanilla JS</li>
 </ul>
 
 <br />
@@ -48,10 +48,10 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
+<table width="100%" style="background: linear-gradient(to right, #000000, #201f1f); padding: 20px;">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center" style="color: #d42b2b;"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/RyoAkihito">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyoAkihito&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -59,7 +59,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center" style="color: #d42b2b;"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/RyoAkihito">
           <img align="center" src="https://streak-stats.demolab.com?user=RyoAkihito&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center" style="color: #d42b2b;"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/RyoAkihito/Awesome-Dev-Portfolios">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=RyoAkihito&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
@@ -77,7 +77,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center" style="color: #d42b2b;"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/RyoAkihito">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=RyoAkihito&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
@@ -86,6 +86,7 @@
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Contact Section--> 
@@ -93,37 +94,24 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:aunurrahmanramy@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="aunurrahmanramy@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/rmy.all" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="rmy.all" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/RyoAkihito" target="_blank">
+<img src="./github.png" width=50 height=50 alt="RyoAkihito" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/aunurrahman-ramy-al-ghazy-215b7628b/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
 
 <!--Footer--> 
 <p align="center">
