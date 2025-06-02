@@ -1,10 +1,12 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![RyoAkihito Banner Image](./banner.png)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Ryo! 
-*Code Explorer & Creative Builder*
-<br /> 
+<h1>
+  <span style="font-size: 30px;">🚀</span> ɪ'ᴍ Ryo!
+</h1>
+<p><em>Code Explorer & Creative Builder</em></p>
+<br />
 
 <!--Start Intro-->               
 <p align="left">I am a Junior Website Developer and UI/UX Enthusiast with a huge love for UI/UX Design, Figma, Laravel, Python, MySql, REST API and Data Visualization. </p>
@@ -14,14 +16,6 @@
 - 🧠 Learning isn’t a goal for me — it’s a mindset.
 - 💻 Wanna know more? My[Portfolio](https://portofoliosite.com/ramy-porto/) has the rest of the story about me.
 <!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
-
----
-
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
@@ -34,17 +28,18 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Exploring UI/UX principles to create more intuitive user experiences 🎯</li>
+  <li>Improving skills in responsive Web Design using HTML, CSS, and JavaScript 💻</li>
+  <li>Mastering Figma for designing interactive prototypes and modern layouts 🎨</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
+<h3 align="left">Latest Projects & Articles</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-  <li><a href="https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h">Embedding Models You Can Use in Your Next Project For Free 🚀</a></li>
+  <li><a href="#">🔧 Designing a Mobile-First Web Layout Using Figma & CSS Grid</a></li>
+  <li><a href="#">🎨 Prototyping Faster with Figma's Auto Layout & Variants</a></li>
+  <li><a href="#">🚀 Building a Smooth Scroll Landing Page with Vanilla JS</a></li>
 </ul>
+
 <br />
 <br />
 <br />
